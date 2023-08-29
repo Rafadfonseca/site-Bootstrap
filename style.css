@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    
+}
+.row {
+    display: inline-block;
+    position: relative;
+  }
+  .row h1 {
+    position: absolute;
+    top: 145px;
+    text-align: center;
+    font-size: 120px;
+    color: white;
+  }
